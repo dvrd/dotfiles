@@ -1,0 +1,8 @@
+export PICTURES='/Users/kakurega/Library/Mobile Documents/com~apple~CloudDocs/Documents/Pictures/mage.jpeg'
+export INVOICE_LOGO='/Users/kakurega/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Pictures/guy-removebg.png'
+export INVOICE_FROM='Daniel Castrillo'
+export INVOICE_TAX='0'
+export EDITOR='nvim'
+export STOIC_EXT='md'
+export OPENAI_API_KEY='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'
+export VK_ICD_FILENAMES='/opt/homebrew/opt/vulkan-tools/lib/mock_icd/VkICD_mock_icd.json'

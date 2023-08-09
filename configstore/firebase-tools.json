@@ -1,0 +1,56 @@
+{
+	"previews": {
+		"webframeworks": true
+	},
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1679691730626
+	},
+	"activeProjects": {
+		"/Users/kakurega/Developer/doppler/frontend": "sai-qa"
+	},
+	"additionalAccounts": [],
+	"activeAccounts": {},
+	"emulator-analytics-clientId": "a08799bc-eb10-4dce-82df-07a692f0c8c7",
+	"webconfig": {
+		"doppleradmin": {
+			"projectId": "doppleradmin",
+			"appId": "1:121166339029:web:c6e94c4ecaed85a1e8bb5c",
+			"storageBucket": "doppleradmin.appspot.com",
+			"locationId": "us-central",
+			"apiKey": "AIzaSyAZxBl0UYRdxiBMSdzf1bAd26w3mb5_qoI",
+			"authDomain": "doppleradmin.firebaseapp.com",
+			"messagingSenderId": "121166339029",
+			"measurementId": "G-PDXGFYZ09F"
+		}
+	},
+	"analytics-uuid": "8d0b7d68-4079-452f-80ff-6681f13abd24",
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "101910938670006988917",
+		"hd": "devoured.io",
+		"email": "dan@devoured.io",
+		"email_verified": true,
+		"at_hash": "udsFKz_e_a-jOB6t0QhtZw",
+		"iat": 1679691745,
+		"exp": 1679695345
+	},
+	"tokens": {
+		"expires_at": 1679695344608,
+		"access_token": "ya29.a0Ael9sCPIEisW8LMEfq7CEb8RxEfZC01EykpB881KGN-bU2BjnvyZl9gkMoHmTIXUX91xeXiLspN6eSFFKEVmHAlXE9oiDJ_uG2-Mlhdo32eT75Dx5BflN6b3ykNOIF-KFzcNvNPKCtF5kDXee4mbafBtuCdvNyil5ZALaCgYKAdcSARISFQF4udJhnt0QwiuHX0xFh35Lj3IeZg0171",
+		"expires_in": 3599,
+		"refresh_token": "1//01VQNb-YFIygeCgYIARAAGAESNwF-L9IrTOqX47a-LuEo-A8PWpbYChTG9JeRsjsTcVPSI4a4dzxWU74jtDoCiZ3OWg1tvhFc3_M",
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloud-platform openid https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk4NmVlOWEzYjc1MjBiNDk0ZGY1NGZlMzJlM2U1YzRjYTY4NWM4OWQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAxOTEwOTM4NjcwMDA2OTg4OTE3IiwiaGQiOiJkZXZvdXJlZC5pbyIsImVtYWlsIjoiZGFuQGRldm91cmVkLmlvIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJ1ZHNGS3pfZV9hLWpPQjZ0MFFodFp3IiwiaWF0IjoxNjc5NjkxNzQ1LCJleHAiOjE2Nzk2OTUzNDV9.VUEHNA1c8CYDUGydaRJB58PvENVEf5hCh5uBymRbTi1myGE0mbcLwhKFck-RMVpAIE2jP_Rh3ci9ZiyGt4-Q4rtxY4XWEifoAZQ0_CsWxTyUyIDBHcaB-I3TYMdaXCQvryg1rTKzCyBeLxq_wCar0N3RoHVvNpBYFzOV_xwPAG67aej8Sw4ORKra5a3wlkmMbTmKUHs71uTpwkmklK9GaidTxgDHMvAt6Ev9kGZEnpGLHqvMLEXmUiZuif02zSQdccdI_RvCBEUT36OHy3jj8Z0Ekdcw4iQnqp23XrxYCVnxzEedUsQoOdvGy4hPsSbkXs4GO3cy7n8ykw9M8DK1XQ"
+	}
+}

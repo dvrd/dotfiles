@@ -1,0 +1,17 @@
+[[language]]
+name = "rust"
+auto-format = true
+indent = { tab-width = 2, unit = "  " }
+
+[language.config.check]
+command = "clippy"
+
+[[laguage]]
+name = "tsx"
+roots = ["tailwind.config.js", "tailwind.config.cjs"]
+laguage-server = { command = "tailwindcss-language-server", args = ["-vvv", "--stdio"]}
+
+[[language]]
+name = "tsx"
+formatter = { command = 'prettier', args = ["--parser", "typescript"] }
+auto-format = true

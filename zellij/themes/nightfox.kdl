@@ -1,0 +1,15 @@
+themes {
+	carbonfox {
+		bg "#2a2a2a"
+		fg "#525253"
+		red "#EE5396"
+		green "#25be6a"
+		blue "#78A9FF"
+		yellow "#08BDBA"
+		magenta "#08BDBA"
+		orange "#3DDBD9"
+		cyan "#33B1FF"
+		black "#282828"
+		white "#dfdfe0"
+	}
+}

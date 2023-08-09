@@ -1,0 +1,15 @@
+{
+	"latest_signin": "my",
+	"device": "maqguzkitmh73ahd55ew3gcjtm",
+	"accounts": [
+		{
+			"shorthand": "my",
+			"accountUUID": "XKVOCMOPJZHVBO3NBU32PNPUYM",
+			"url": "https://my.1password.com",
+			"email": "littlecastrum@gmail.com",
+			"accountKey": "A3-LJDYMJ-APKLQ6-JE4MP-59PW3-LPA6K-TPVW3",
+			"userUUID": "ZM5YM3TK75EFXF3KVYB7TWJTMQ"
+		}
+	],
+	"system_auth_latest_signin": "ZM5YM3TK75EFXF3KVYB7TWJTMQ"
+}

@@ -1,0 +1,7 @@
+
+alias run-help=man
+
+alias which-command=whence
+
+alias pic='cd /Users/kakurega/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Pictures'
+alias tmux='tmux -2'
